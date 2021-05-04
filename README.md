@@ -25,3 +25,7 @@ Things you may want to cover:
 
 ## Set up Ruby on Rails project
 https://guides.rubyonrails.org/getting_started.html
+
+
+## Run Docker image
+docker run -p 3000:3000 my-ruby-app
